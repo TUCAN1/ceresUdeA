@@ -1,8 +1,8 @@
 # ceresUdeA
 
-We developed a new implementation of CERES (Collection of Elemental Routines for Echelle Spectra, [Brahm et al 2017](https://ui.adsabs.harvard.edu/#abs/2017PASP..129c4002B/abstract)) using a DockerFile allowing professional astronomers and students to reduce the sbectra taken using FIDEOS (FIber Dual Echelle Optical Spectrograph, [Tala et al., 2014](https://ui.adsabs.harvard.edu/abs/2014SPIE.9147E..89T/abstract)) throught the agreement TUCAN-1 (Telescopio Universidad Católica- Universidad de Antioquia 1 metro).
+We developed a wrapper for a modified implementation of CERES (Collection of Elemental Routines for Echelle Spectra, [Brahm et al 2017](https://ui.adsabs.harvard.edu/#abs/2017PASP..129c4002B/abstract)) using a DockerFile. This allows professional astronomers and students to reduce the spectra taken using FIDEOS (FIber Dual Echelle Optical Spectrograph, [Tala et al., 2014](https://ui.adsabs.harvard.edu/abs/2014SPIE.9147E..89T/abstract)). This is made possible thanks to the TUCAN-1 (Telescopio Universidad Católica - Universidad de Antioquia 1-metro) agreement.
 
-The DockerFile is found in [docker4ceres](https://github.com/TUCAN1/docker4ceres)
+This repository hosts the modified version of CERES required to run on Docker. The actual DockerFile is found in the [docker4ceres](https://github.com/TUCAN1/docker4ceres) repository.
 
 # About the code
 
