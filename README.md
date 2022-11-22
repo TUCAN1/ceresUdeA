@@ -17,7 +17,7 @@ This new version aims to fix the portability issues of installing locally the pi
 
 # Requirements
 
-This version was tested for macOS with M1 chip and for Ubuntu.
+This version was tested for macOS with Intel, M1 chip and for Ubuntu.
 
 The next part of this README was taken from the original CERES pipeline available in [rabrahm/ceres](https://github.com/rabrahm/ceres).
 
